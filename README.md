@@ -1,7 +1,3 @@
 # FaceClicker
 
-A project template for creating games involving clicking faces.
-
-Uses Phaser 3.80
-
-Art assets from the [Shape Characters](https://kenney.nl/assets/shape-characters) asset pack by [Kenney Assets](https://kenney.nl/), with gratitude.
+A game made with Z.ai GLM 5.1 Bayleaf. You click faces to cycle through expressions and try to get all of the expressions available.
