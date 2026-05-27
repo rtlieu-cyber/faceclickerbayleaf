@@ -1,5 +1,7 @@
-# faceclickerbayleaf
+# FaceClicker
 
-This is a game created by Z.ai GLM 5.1 BayLeaf.
+A project template for creating games involving clicking faces.
 
-You click on the different faces to cycle through expressions and try to get all of the possible faces on the screen at once.
+Uses Phaser 3.80
+
+Art assets from the [Shape Characters](https://kenney.nl/assets/shape-characters) asset pack by [Kenney Assets](https://kenney.nl/), with gratitude.
